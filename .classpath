@@ -2,26 +2,26 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-ant-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-client-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-core-1.1.2.jar" sourcepath="/hadoop"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-examples-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-minicluster-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-test-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/hadoop-tools-1.1.2.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/zookeeper-3.4.5/zookeeper-3.4.5.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/commons-logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/ant.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/commons-configuration-1.6.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/commons-lang-2.4.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/jackson-mapper-asl-1.8.8.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/jackson-core-asl-1.8.8.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/jasper-compiler-5.5.12.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/jasper-runtime-5.5.12.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/commons-io-2.1.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/commons-httpclient-3.0.1.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/slf4j-log4j12-1.4.3.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/slf4j-api-1.4.3.jar"/>
-	<classpathentry kind="lib" path="D:/BaiduYunDownload/hadoop-1.1.2/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="libs/ant.jar"/>
+	<classpathentry kind="lib" path="libs/commons-configuration-1.6.jar"/>
+	<classpathentry kind="lib" path="libs/commons-httpclient-3.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-io-2.1.jar"/>
+	<classpathentry kind="lib" path="libs/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-ant-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-client-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-core-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-examples-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-minicluster-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-test-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/hadoop-tools-1.1.2.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-core-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="libs/jackson-mapper-asl-1.8.8.jar"/>
+	<classpathentry kind="lib" path="libs/jasper-compiler-5.5.12.jar"/>
+	<classpathentry kind="lib" path="libs/jasper-runtime-5.5.12.jar"/>
+	<classpathentry kind="lib" path="libs/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-api-1.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/slf4j-log4j12-1.4.3.jar"/>
+	<classpathentry kind="lib" path="libs/zookeeper-3.4.5.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
