@@ -9,7 +9,9 @@ import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooKeeper;
 import org.apache.zookeeper.ZooDefs.Ids;
-
+/**
+ * 我的博客地址：http://blog.csdn.net/u010156024/article/details/50151029
+ */
 public class QueueZooKeeper {
 
     public static void main(String[] args) throws Exception {

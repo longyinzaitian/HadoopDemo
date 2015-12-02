@@ -19,6 +19,7 @@ import org.apache.hadoop.mapred.TextInputFormat;
 import org.apache.hadoop.mapred.TextOutputFormat;
 /**
  * 浏览器统计MapReduce
+ * 我的博客：http://blog.csdn.net/u010156024/article/details/50147697
  * 
  */
 public class KPIBrowser {

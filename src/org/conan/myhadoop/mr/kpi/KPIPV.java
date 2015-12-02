@@ -23,6 +23,7 @@ import org.apache.hadoop.mapred.TextOutputFormat;
  * 完成的功能类似于单词统计：
  * 以每个访问网页的资源路径为键，经过mapreduce任务，
  * 最终得到每一个资源路径的访问次数
+ * 我的博客：http://blog.csdn.net/u010156024/article/details/50147697
  */
 public class KPIPV { 
 

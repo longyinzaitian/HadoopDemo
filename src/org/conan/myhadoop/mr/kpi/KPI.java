@@ -10,6 +10,7 @@ import java.util.Set;
 /*
  * KPI Object
  * 日志文件每一行作为一条记录，该类完成每一行日志的解析
+ * 我的博客：http://blog.csdn.net/u010156024/article/details/50147697
  */
 public class KPI {
     private String remote_addr;// 记录客户端的ip地址

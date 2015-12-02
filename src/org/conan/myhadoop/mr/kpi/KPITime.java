@@ -20,6 +20,7 @@ import org.apache.hadoop.mapred.TextInputFormat;
 import org.apache.hadoop.mapred.TextOutputFormat;
 /**
  * 用户每小时访问量统计
+ * 我的博客：http://blog.csdn.net/u010156024/article/details/50147697
  */
 public class KPITime {
     public static class KPITimeMapper extends MapReduceBase implements Mapper<Object, Text, Text, IntWritable> {

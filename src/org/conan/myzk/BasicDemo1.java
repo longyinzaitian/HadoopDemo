@@ -7,7 +7,11 @@ import org.apache.zookeeper.WatchedEvent;
 import org.apache.zookeeper.Watcher;
 import org.apache.zookeeper.ZooDefs.Ids;
 import org.apache.zookeeper.ZooKeeper;
-
+/**
+ * 
+ * 我的博客地址：http://blog.csdn.net/u010156024/article/details/50151029
+ *
+ */
 public class BasicDemo1 {
 
     public static void main(String[] args) 

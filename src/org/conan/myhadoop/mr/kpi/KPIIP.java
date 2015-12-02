@@ -24,6 +24,7 @@ import org.apache.hadoop.mapred.TextOutputFormat;
  * reduce完成以资源路径为键，ip统计值为值写入到结果文件中。
  * 
  * 完成的功能类似于单词统计！！
+ * 我的博客：http://blog.csdn.net/u010156024/article/details/50147697
  */
 public class KPIIP {
 
