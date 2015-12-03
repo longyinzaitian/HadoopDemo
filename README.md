@@ -1,7 +1,8 @@
 # HadoopDemo
->Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用等  
-
-运行环境：  
+h1Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用等h1  
+  
+------------------------------
+h1运行环境：h1  
 java 1.8  
 hadoop1.1.2  
 zookeeper3.4.5  
@@ -43,6 +44,7 @@ zookeeper3.4.5
 原项目地址：请点击[这里](https://github.com/bsspirit/maven_hadoop_template)    
 原项目采用eclipse+Maven构建的。我在原有基础上没有使用Maven。使用eclipse构建。    
   
+------------------------------
 >source目录    
 
 source目录内是项目中使用到的资源文件      
