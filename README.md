@@ -8,14 +8,14 @@ zookeeper3.4.5
 采用伪分布模式下eclipse工具进行开发的java project。    
   
   
-  
+------------------------------
 >org.conan.myhadoop.hdfs    
 
 该包下是HDFS类的基本操作。包括文件的创建，复制，删除， 查看数据，文件重命名，从hdfs下载文件到本地系统等  
 请参考我的博客：[Hadoop-利用java API操作HDFS文件](http://blog.csdn.net/u010156024/article/details/50113273)  
   
   
-  
+------------------------------
 >org.conan.myhadoop.mr  
 
 该包下是一个单词统计的MapReduce任务类。  
@@ -23,7 +23,7 @@ zookeeper3.4.5
 请参看我的博客：[Hadoop-MapReduce初步应用-统计单词个数](http://blog.csdn.net/u010156024/article/details/50117659)  
   
   
-  
+------------------------------
 >org.conan.myhadoop.mr.kpi  
 
 该包下是一个web日志的分析的四个MapReduce任务类。  
@@ -31,14 +31,14 @@ zookeeper3.4.5
 请参看我的博客：[Hadoop-web日志信息挖掘MapReduce简单应用](http://blog.csdn.net/u010156024/article/details/50147697)  
   
   
-  
+------------------------------
 >org.conan.myzk  
 
 该包下是对zookeeper工具的简单使用。  
 需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。  
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
   
-  
+------------------------------
 最后感谢代码原创作者@bsspirit。    
 原项目地址：请点击[这里](https://github.com/bsspirit/maven_hadoop_template)    
 原项目采用eclipse+Maven构建的。我在原有基础上没有使用Maven。使用eclipse构建。    
