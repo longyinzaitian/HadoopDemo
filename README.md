@@ -40,12 +40,13 @@ zookeeper3.4.5
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
   
 ------------------------------
+>source目录    
+
+source目录内是项目中使用到的资源文件      
+------------------------------
 最后感谢代码原创作者@bsspirit。    
 原项目地址：请点击[这里](https://github.com/bsspirit/maven_hadoop_template)    
 原项目采用eclipse+Maven构建的。我在原有基础上没有使用Maven。使用eclipse构建。    
   
-------------------------------
->source目录    
-
-source目录内是项目中使用到的资源文件      
-
+#######提示：
+各位在学习代码时，需要把代码中相关的配置信息改成自己对应的配置信息。例如主机地址、端口号等。  
