@@ -20,7 +20,7 @@ zookeeper3.4.5
 >org.conan.myhadoop.mr  
 
 该包下是一个单词统计的MapReduce任务类。  
-完成对文件中单词的统计。 
+完成对文件中单词的统计。    
 请参看我的博客：[Hadoop-MapReduce初步应用-统计单词个数](http://blog.csdn.net/u010156024/article/details/50117659)  
   
   
@@ -35,7 +35,7 @@ zookeeper3.4.5
 ------------------------------
 >org.conan.myzk  
 
-该包下是对zookeeper工具的简单使用。  
+该包下是对zookeeper工具的简单使用。   
 需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。  
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
   
