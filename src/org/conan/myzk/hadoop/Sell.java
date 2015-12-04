@@ -26,7 +26,7 @@ import org.conan.myhadoop.hdfs.HdfsDAO;
  */
 public class Sell {
 
-    public static final String HDFS = "hdfs://192.168.1.210:9000";
+    public static final String HDFS = "hdfs://centos:9000";
     public static final Pattern DELIMITER = Pattern.compile("[\t,]");
 
     public static class SellMapper extends Mapper<LongWritable, Text, Text, IntWritable> {

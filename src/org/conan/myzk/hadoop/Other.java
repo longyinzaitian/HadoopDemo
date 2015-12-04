@@ -29,7 +29,6 @@ public class Other {
             }
         }
         br.close();
-
         System.out.println("Output:" + month + "," + money);
         return money;
     }

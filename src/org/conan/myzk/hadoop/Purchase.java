@@ -21,7 +21,6 @@ import org.conan.myhadoop.hdfs.HdfsDAO;
 
 /**
  * 采购
- * 
  * @author conan
  */
 public class Purchase {
@@ -50,7 +49,6 @@ public class Purchase {
     public static class PurchaseReducer extends Reducer<Text, IntWritable, Text, IntWritable> {
         private IntWritable v = new IntWritable();
         private int money = 0;
-
         @Override
         public void reduce(Text key, Iterable<IntWritable> values, Context context) throws IOException, InterruptedException {
             for (IntWritable line : values) {
@@ -61,7 +59,6 @@ public class Purchase {
             context.write(null, v);
             System.out.println("Output:" + key + "," + money);
         }
-
     }
 
     public static void run(Map<String, String> path) throws IOException, InterruptedException, ClassNotFoundException {

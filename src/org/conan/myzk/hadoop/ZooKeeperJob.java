@@ -27,9 +27,9 @@ public class ZooKeeperJob {
     }
 
     public static void doAction(int client) throws Exception {
-        String host1 = "192.168.1.201:2181";
-        String host2 = "192.168.1.201:2182";
-        String host3 = "192.168.1.201:2183";
+        String host1 = "centos:2181";
+        String host2 = "centos:2182";
+        String host3 = "centos:2183";
 
         ZooKeeper zk = null;
         switch (client) {
@@ -119,7 +119,6 @@ public class ZooKeeperJob {
         int size = 3;
         List<String> children = zk.getChildren(QUEUE, true);
         int length = children.size();
-
         System.out.println("Queue Complete:" + length + "/" + size);
         if (length >= size) {
             System.out.println("create " + PROFIT);
@@ -129,8 +128,6 @@ public class ZooKeeperJob {
             for (String child : children) {// 清空节点
                 zk.delete(QUEUE + "/" + child, -1);
             }
-
         }
     }
-
 }
