@@ -1,5 +1,5 @@
 # HadoopDemo
-Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用等  
+Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用、Hive简单操作等  
   
 ------------------------------
 ### 运行环境：  
@@ -39,12 +39,18 @@ zookeeper3.4.5
 需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。  
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
   
-------------------------------
+------------------------------  
+>org.longyin.myhadoo.hive  
+
+该包下是Hive的简单示例。  
+代码中使用的Hive版本是0.9.0  
+请参看我的博客：[Hive-命令行基本操作和java API简单操作](http://blog.csdn.net/u010156024/article/details/50165385)  
+------------------------------  
 >source目录    
   
 source目录内是项目中使用到的资源文件      
   
-------------------------------
+------------------------------  
 最后感谢代码原创作者@bsspirit。    
 原项目地址：请点击[这里](https://github.com/bsspirit/maven_hadoop_template)    
 原项目采用eclipse+Maven构建的。我在原有基础上没有使用Maven。使用eclipse构建。    
