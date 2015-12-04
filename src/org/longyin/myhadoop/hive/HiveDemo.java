@@ -16,5 +16,4 @@ public class HiveDemo {
 			System.out.println(resut.getInt(1));
 		}
 	}
-
 }
