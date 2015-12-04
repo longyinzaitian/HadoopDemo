@@ -36,8 +36,9 @@ zookeeper3.4.5
 >org.conan.myzk  
 
 该包下是对zookeeper工具的简单使用。   
-需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。     
+需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。  
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
+  
   
 ------------------------------  
 >org.longyin.myhadoo.hive  
@@ -45,6 +46,8 @@ zookeeper3.4.5
 该包下是Hive的简单示例。  
 代码中使用的Hive版本是0.9.0  
 请参看我的博客：[Hive-命令行基本操作和java API简单操作](http://blog.csdn.net/u010156024/article/details/50165385)  
+  
+
 ------------------------------  
 >source目录    
   
