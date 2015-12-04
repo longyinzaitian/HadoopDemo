@@ -1,5 +1,5 @@
 # HadoopDemo
-Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用、Hive简单操作等  
+Hadoop简单应用案例，包括MapReduce、单词统计、HDFS基本操作、web日志分析、Zookeeper基本使用、Hive简单操作等    
   
 ------------------------------
 ### 运行环境：  
@@ -36,7 +36,7 @@ zookeeper3.4.5
 >org.conan.myzk  
 
 该包下是对zookeeper工具的简单使用。   
-需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。  
+需要安装zookeeper。代码中使用的是zookeeper3.4.5版本。     
 请查看我的博客：[Zookeeper命令行以及java API简单使用](http://blog.csdn.net/u010156024/article/details/50151029)  
   
 ------------------------------  
