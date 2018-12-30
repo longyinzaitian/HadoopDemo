@@ -58,5 +58,5 @@ source目录内是项目中使用到的资源文件
 原项目地址：请点击[这里](https://github.com/bsspirit/maven_hadoop_template)    
 原项目采用eclipse+Maven构建的。我在原有基础上没有使用Maven。使用eclipse构建。    
   
-######提示：
+###### 提示：
 各位在学习代码时，需要把代码中相关的配置信息改成自己对应的配置信息。例如主机地址、端口号等。  
